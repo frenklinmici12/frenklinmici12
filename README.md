@@ -1,12 +1,28 @@
-## Hi there 👋
+## Hi there, I'm Frenklin 👋
 
-## 📂 Projects
+## About Me
+
+I'm a second-year computer science student, learning to build all kinds of cool stuff little by little. Right now, my main interests are Full-Stack Development, Systems Programming, and Backend Engineering.  
+
+---
+
+## 📂 My Projects
 
 | # | Project | Description | Stack | Status |
 |---|---------|-------------|-------|--------|
-| 1 | [Project A](link) | What it does | React | ✅ Live |
-| 2 | [Project B](link) | What it does | Python | 🚧 WIP |
-| 3 | [Project C](link) | What it does | Node | ✅ Live |
+| 1 | [Fieros](https://github.com/frenklinmici12/Fieros) | Videogame Tracking Web-App | React, Flask, RAWG API | 🚧 WIP |
+| 2 | [Checkers](https://github.com/frenklinmici12/CS-342-Project-3---Checkers) | Play Live Checkers Against a Real Opponent, With Built-In Instant Messaging | JavaFX | ✅ Finished |
+| 3 | [To-Do List](https://github.com/frenklinmici12/To-Do-List) | Track Your Day-To-Day Activities! | React | ✅ Finished | 
+
+---
+
+## 📫 Connect With Me!
+
+[![LinkedIn](https://www.linkedin.com/in/frenklin-mici/)]
+
+---
+
+⚡ Feel free to check out my projects!
 
 <!--
 **frenklinmici12/frenklinmici12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

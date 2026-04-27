@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-Here are some of my projects!
+## 📂 Projects
+
+| # | Project | Description | Stack | Status |
+|---|---------|-------------|-------|--------|
+| 1 | [Project A](link) | What it does | React | ✅ Live |
+| 2 | [Project B](link) | What it does | Python | 🚧 WIP |
+| 3 | [Project C](link) | What it does | Node | ✅ Live |
 
 <!--
 **frenklinmici12/frenklinmici12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

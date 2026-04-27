@@ -18,7 +18,7 @@ I'm a second-year computer science student, learning to build all kinds of cool 
 
 ## 📫 Connect With Me!
 
-[![LinkedIn](https://www.linkedin.com/in/frenklin-mici/)]
+[LinkedIn](https://www.linkedin.com/in/frenklin-mici/)
 
 ---
 

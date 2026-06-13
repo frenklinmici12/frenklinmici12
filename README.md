@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a second-year computer science student, learning to build all kinds of cool stuff little by little. Right now, my main interests are Full-Stack Development, Systems Programming, and Backend Engineering.  
+I'm a third-year computer science student, learning to build all kinds of cool stuff little by little. Right now, my main interests are Full-Stack Development, Systems Programming, and Backend Engineering.  
 
 ---
 

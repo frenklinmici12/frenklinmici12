@@ -11,8 +11,9 @@ I'm a second-year computer science student, learning to build all kinds of cool 
 | # | Project | Description | Stack | Status |
 |---|---------|-------------|-------|--------|
 | 1 | [Fieros](https://github.com/frenklinmici12/Fieros) | Videogame Tracking Web-App | React, Flask, RAWG API | 🚧 WIP |
-| 2 | [Checkers](https://github.com/frenklinmici12/CS-342-Project-3---Checkers) | Play Live Checkers Against a Real Opponent, With Built-In Instant Messaging | JavaFX | ✅ Finished |
-| 3 | [To-Do List](https://github.com/frenklinmici12/To-Do-List) | Track Your Day-To-Day Activities! | React | ✅ Finished | 
+| 2 | [Cadenza](https://github.com/frenklinmici12/Cadenza) | AI Powered Social Skills Trainer | React, Express, Supabase | 🚧 WIP |
+| 3 | [Checkers](https://github.com/frenklinmici12/CS-342-Project-3---Checkers) | Play Live Checkers Against a Real Opponent, With Built-In Instant Messaging | JavaFX | ✅ Finished |
+| 4 | [To-Do List](https://github.com/frenklinmici12/To-Do-List) | Track Your Day-To-Day Activities! | React | ✅ Finished | 
 
 ---
 
